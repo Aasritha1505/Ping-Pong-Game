@@ -45,4 +45,4 @@ Example:
 - ncurses for terminal-based rendering  
 
 ## Author
-Developed by [Your Name]
+Developed by Aasritha
